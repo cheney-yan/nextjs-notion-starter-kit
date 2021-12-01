@@ -13,13 +13,13 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Cheney Yan\s home space',
-  socialImageTitle: 'Cheney Yan',
-  socialImageSubtitle: 'Stay Hungry. Stay Foolish.',
+  socialImageTitle: 'Transitive Bullshit',
+  socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
-  // github: 'transitive-bullshit',
-  linkedin: 'cheneyyan',
+  twitter: 'transitive_bs',
+  github: 'transitive-bullshit',
+  linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
